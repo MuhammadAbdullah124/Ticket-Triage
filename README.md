@@ -6,7 +6,7 @@ A simple support ticket management system with automated ticket classification. 
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/MuhammadAbdullah124/Ticket-Triage/` and `cd <repo-folder>`  
+1. Clone the repository: `git clone https://github.com/MuhammadAbdullah124/Ticket-Triage/` and `cd Ticket-Triage`  
 2. Install PHP dependencies: `composer install`  
 3. Install Node dependencies: `npm install`  
 4. Generate application key: `php artisan key:generate`  
